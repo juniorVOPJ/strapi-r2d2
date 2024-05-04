@@ -110,11 +110,11 @@ Você pode configurar facilmente o plug-in ChatGPT no painel de administração 
 
 # 📝 Licença
 
-<br/>
-
-<br/>
-
 [MIT License](LICENSE.md)
+
+<br/>
+
+<br/>
 
 # Contatos (Contacts)
 
