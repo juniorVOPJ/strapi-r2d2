@@ -122,6 +122,10 @@ Você pode configurar facilmente o plug-in ChatGPT no painel de administração 
 [Spotify](https://open.spotify.com/intl-pt/artist/473rn7GqFrubHex9n7uCjz)
 [X](https://twitter.com/juniorvopj)
 
+<br/>
+
+<br/>
+
 # 📝 Licença
 
 [MIT License](LICENSE.md)
