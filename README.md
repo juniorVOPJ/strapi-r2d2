@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/juniorVOPJ/strapi-r2d2/blob/main/logo.png" width="200" height="200" alt="R2D2 Logo" />
 </div>
-<h1 align="center">Strapi R2D2</h1><!-- slide -->
+<h1 align="center">Strapi R2D2</h1>
 
 <p align="center">Integre o ChatGPT e o R2D2 em seu aplicativo Strapi. Você obtém uma interface de usuário para interagir com o ChatGPT e pontos de extremidade de API para integrar em seus aplicativos.</p>
 
@@ -34,16 +34,11 @@ Pronto! Agora você pode usar o ChatGPT em seu aplicativo Strapi.
 1. [Node.js](https://nodejs.org/en/) versão 14 ou superior.
 1. [Strapi](https://strapi.io/) versão v4.x ou superior.
 
-> O plugin ChatGPT foi projetado para o **Strapi v4.x**.
-> Ele não funcionará com o Strapi v3.x.
-
-<br/><br/>
+> O plugin ChatGPT foi projetado para o **Strapi v4.x** e não funcionará com o Strapi v3.x.
 
 ## ⏳ Instalação
 
 ### 1. Instalar o plugin
-
-<!-- use npm for installing plugin -->
 
 ```bash
 npm install strapi-r2d2
@@ -56,8 +51,6 @@ yarn add strapi-r2d2
 ```
 
 ### 2. Ativando o plugin
-
-<!-- enable the plugin in the admin panel -->
 
 Vá para `<strapi app root>/config/plugins.js` Adicione o seguinte código.
 
@@ -74,8 +67,6 @@ module.exports = ({ env }) => ({
 
 Depois disso, você precisará criar um novo pacote que inclua o plug-in ChatGPT. Para isso, execute os comandos abaixo:
 
-<!-- build the admin UI -->
-
 ```bash
 npm run build && npm run develop
 ```
@@ -90,8 +81,6 @@ O plugin ChatGPT deve aparecer na seção Plugins da barra lateral do Strapi dep
 
 Agora você está pronto para integrar o ChatGPT em seu site do Strapi 🎉
 
-<br/><br/>
-
 ## 🔧 Configuração
 
 Você pode configurar facilmente o plug-in ChatGPT no painel de administração do Strapi.
@@ -99,8 +88,6 @@ Você pode configurar facilmente o plug-in ChatGPT no painel de administração 
 -   Vá para `Configurações` -> `R2D2 -> Configurações` na barra lateral.
 -   Na página de configuração, insira todos os campos.
 -   Clique em Save para salvar a configuração.
-
-<br/><br/>
 
 ## 📖 Testando o plugin
 
@@ -112,9 +99,7 @@ Você pode configurar facilmente o plug-in ChatGPT no painel de administração 
 
 [MIT License](LICENSE.md)
 
-<br/>
-
-<br/>
+<br/><br/>
 
 # Contatos (Contacts)
 
