@@ -34,7 +34,8 @@ Pronto! Agora você pode usar o ChatGPT em seu aplicativo Strapi.
 1. [Node.js](https://nodejs.org/en/) versão 14 ou superior.
 1. [Strapi](https://strapi.io/) versão v4.x ou superior.
 
-> O plugin ChatGPT foi projetado para o **Strapi v4.x**. Ele não funcionará com o Strapi v3.x.
+> O plugin ChatGPT foi projetado para o **Strapi v4.x**.
+> Ele não funcionará com o Strapi v3.x.
 
 <br/><br/>
 
@@ -111,6 +112,16 @@ Você pode configurar facilmente o plug-in ChatGPT no painel de administração 
 
 <br/>
 
-## 📝 Licença
+# Contatos (Contacts)
+
+[Site](https://vilmojr.com)
+[OrcID](https://orcid.org/0000-0001-8912-2538)
+[Linkedin](https://www.linkedin.com/in/juniorvopj/)
+[Instagram](https://www.instagram.com/junior.vopj)
+[Youtube](https://www.youtube.com/@juniorvopj)
+[Spotify](https://open.spotify.com/intl-pt/artist/473rn7GqFrubHex9n7uCjz)
+[X](https://twitter.com/juniorvopj)
+
+# 📝 Licença
 
 [MIT License](LICENSE.md)
