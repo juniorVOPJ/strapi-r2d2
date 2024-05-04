@@ -108,9 +108,13 @@ Você pode configurar facilmente o plug-in ChatGPT no painel de administração 
 -   Clique em Integration (Integração) para obter um código de integração de código de amostra.
 -   Copie o código e cole-o em seu terminal.
 
+# 📝 Licença
+
 <br/>
 
 <br/>
+
+[MIT License](LICENSE.md)
 
 # Contatos (Contacts)
 
@@ -121,11 +125,3 @@ Você pode configurar facilmente o plug-in ChatGPT no painel de administração 
 [Youtube](https://www.youtube.com/@juniorvopj)
 [Spotify](https://open.spotify.com/intl-pt/artist/473rn7GqFrubHex9n7uCjz)
 [X](https://twitter.com/juniorvopj)
-
-<br/>
-
-<br/>
-
-# 📝 Licença
-
-[MIT License](LICENSE.md)
